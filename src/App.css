@@ -1,0 +1,61 @@
+
+.home_page{
+    display: flex;
+    justify-content: center;
+    margin-left: 26%;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    text-shadow: #c7859b 0.2px 2px 3px;
+    box-shadow: rgb(241, 189, 189) 0px 20px 30px -10px;
+    background-color:rgba(219, 255, 255, 0.741);
+    height: 150px;
+    width: 50%;
+    color: rgb(216, 194, 194);
+  }
+  .mb-3{
+    padding-top: 25px;
+    
+   }
+   .inputbtn{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    width:40%;
+    color: #c7859b;
+  }
+  .btn-list{
+    display: flex;
+    justify-content: center;
+    color: #c7859b;
+  
+  }
+  .btn-list button {
+    box-shadow: rgba(161, 233, 227, 0.945) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+     border: 2px solid #c7859b;
+   
+     border-radius: 5px;
+   }
+   
+   li h2{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: 1px solid #c7859b;
+    box-shadow:rgb(241, 189, 189) 0px 20px 30px -10px;
+    width:30%;
+    margin-left: 305px;
+  
+    font-size: 20px;
+  }
+  .cardSection{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    
+   
+  }
+  
