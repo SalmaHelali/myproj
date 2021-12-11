@@ -5,23 +5,23 @@ const initialState = {
   todo: [
     {
       id: 0,
-      task: "Hello Mothafuckah !! :) ",
+      task: " Clean the house ",
       done: false,
     },
     {
       id: 1,
-      task: "Have a Great day  ",
+      task: " Buy dog food ",
       done: false,
     },
     {
       id: 2,
-      task: "Good Luck",
+      task: "Read the book",
       done: false,
     },
 
     {
       id: 2,
-      task: " Bye Bye .. :) ",
+      task: "Party night",
       done: false,
     }
 
